@@ -51,7 +51,7 @@ position: absolute;
 </head>
 <body>
 <div class="card">
-<h1>Muvandiiiii </h1>
+<h1>Bazina sweetheart </h1>
 <p>
 wampaye kumafaranga😂?<br>
 </p>
@@ -86,4 +86,3 @@ button.style.top = y + "px";
 </script>
 </body>
 </html>
-# v.html-2
